@@ -1,3 +1,7 @@
+---
+title: "Great Title"
+date: 2020-11-23
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id faucibus elit. Cras elit arcu, lacinia eget congue quis, venenatis lobortis est. Pellentesque a est massa. Aliquam est elit, porttitor id tortor id, imperdiet consectetur turpis. Praesent ultricies quam augue, vitae suscipit mi molestie in. Sed ut erat vitae nulla aliquet tristique. Quisque iaculis bibendum semper. Duis mollis turpis sapien. Nulla nunc tortor, tristique vitae leo vel, egestas tempor elit. Aliquam sed posuere urna. Quisque consectetur risus ut massa ornare, id mattis nisl pulvinar. Duis vitae erat sem. Integer iaculis, ex non condimentum tempus, dui dui elementum purus, sed lobortis arcu dolor quis nibh.
 
 Pellentesque dui lacus, aliquam id quam quis, mollis viverra nulla. Praesent arcu diam, venenatis a dolor vel, faucibus consectetur lectus. Aliquam in orci nec libero interdum condimentum. Fusce purus ante, sollicitudin id enim id, sollicitudin convallis ante. Vivamus eu ultricies tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum interdum, magna porta viverra scelerisque, nunc nisl porttitor lectus, vel tempus ligula risus id dui. Nulla facilisi. Praesent at tincidunt tellus. Nam pretium purus bibendum odio dapibus, sed interdum lectus scelerisque. Mauris sagittis neque a nulla maximus consequat.
