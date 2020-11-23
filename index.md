@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id faucibus elit. Cras elit arcu, lacinia eget congue quis, venenatis lobortis est. Pellentesque a est massa. Aliquam est elit, porttitor id tortor id, imperdiet consectetur turpis. Praesent ultricies quam augue, vitae suscipit mi molestie in. Sed ut erat vitae nulla aliquet tristique. Quisque iaculis bibendum semper. Duis mollis turpis sapien. Nulla nunc tortor, tristique vitae leo vel, egestas tempor elit. Aliquam sed posuere urna. Quisque consectetur risus ut massa ornare, id mattis nisl pulvinar. Duis vitae erat sem. Integer iaculis, ex non condimentum tempus, dui dui elementum purus, sed lobortis arcu dolor quis nibh.
