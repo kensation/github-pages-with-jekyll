@@ -1,15 +1,23 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Great awesome blog
+author: Kensation
+email: kensation@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Maecenas id faucibus elit. Cras elit arcu, lacinia eget
+ congue quis, venenatis lobortis est. Pellentesque a est
+ massa. Aliquam est elit, porttitor id tortor id, imperdiet
+ consectetur turpis. Praesent ultricies quam augue, vitae
+ suscipit mi molestie in. Sed ut erat vitae nulla aliquet
+ tristique. Quisque iaculis bibendum semper. Duis mollis
+ turpis sapien. Nulla nunc tortor, tristique vitae leo vel,
+ egestas tempor elit. Aliquam sed posuere urna. Quisque
+ consectetur risus ut massa ornare, id mattis nisl pulvinar.
+ Duis vitae erat sem. Integer iaculis, ex non condimentum tempus,
+ dui dui elementum purus, sed lobortis arcu dolor quis nibh.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: kensation # DO NOT include the @ character, or else the build will fail!
+github_username:  kensation # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: minima
